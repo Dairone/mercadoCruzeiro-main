@@ -13,6 +13,7 @@ import Promocao from './src/componentes/Promocao';
 const Drawer = createDrawerNavigator();
 
 ///[tttetrtrtr]
+///comentei aki
 
  
 export default function App() {
