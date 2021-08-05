@@ -12,7 +12,7 @@ import Promocao from './src/componentes/Promocao';
 
 const Drawer = createDrawerNavigator();
 
-
+///[tttetrtrtr]
 
  
 export default function App() {
